@@ -1,0 +1,176 @@
+[
+    {
+        "team1": "PAK",
+        "team2": "ENG",
+        "winner": 0
+    },
+    {
+        "team1": "SL",
+        "team2": "AFG",
+        "winner": 0
+    },
+    {
+        "team1": "SA",
+        "team2": "IND",
+        "winner": 1
+    },
+    {
+        "team1": "BAN",
+        "team2": "NZ",
+        "winner": 1
+    },
+    {
+        "team1": "AUS",
+        "team2": "WI",
+        "winner": "0"
+    },
+    {
+        "team1": "ENG",
+        "team2": "BAN",
+        "winner": 0
+    },
+    {
+        "team1": "AFG",
+        "team2": "NZ",
+        "winner": 1
+    },
+    {
+        "team1": "IND",
+        "team2": "AUS",
+        "winner": 0
+    },
+    {
+        "team1": "AUS",
+        "team2": "PAK",
+        "winner": 1
+    },
+    {
+        "team1": "WI",
+        "team2": "ENG",
+        "winner": 1
+    },
+    {
+        "team1": "AUS",
+        "team2": "SL",
+        "winner": 0
+    },
+    {
+        "team1": "AFG",
+        "team2": "SA",
+        "winner": 0
+    },
+    {
+        "team1": "IND",
+        "team2": "PAK",
+        "winner": 0
+    },
+    {
+        "team1": "WI",
+        "team2": "BAN",
+        "winner": 1
+    },
+    {
+        "team1": "ENG",
+        "team2": "AFG",
+        "winner": 0
+    },
+    {
+        "team1": "SA",
+        "team2": "NZ",
+        "winner": 1
+    },
+    {
+        "team1": "AUS",
+        "team2": "BAN",
+        "winner": 0
+    },
+    {
+        "team1": "SL",
+        "team2": "ENG",
+        "winner": 0
+    },
+    {
+        "team1": "IND",
+        "team2": "AFG",
+        "winner": 0
+    }, {
+        "team1": "NZ",
+        "team2": "WI",
+        "winner": 0
+    }, {
+        "team1": "PAK",
+        "team2": "SA",
+        "winner": 0
+    },
+    {
+        "team1": "BAN",
+        "team2": "AFG",
+        "winner": 0
+    },
+    {
+        "team1": "AUS",
+        "team2": "ENG",
+        "winner": 0
+    },
+    {
+        "team1": "NZ",
+        "team2": "PAK",
+        "winner": 0
+    },
+    {
+        "team1": "IND",
+        "team2": "WI",
+        "winner": 0
+    }, {
+        "team1": "SL",
+        "team2": "SA",
+        "winner": 1
+    }, {
+        "team1": "AFG",
+        "team2": "PAK",
+        "winner": 1
+    },
+    {
+        "team1": "AUS",
+        "team2": "NZ",
+        "winner": 0
+    }, {
+        "team1": "ENG",
+        "team2": "IND",
+        "winner": 0
+    }, {
+        "team1": "SL",
+        "team2": "WI",
+        "winner": 0
+    },
+    {
+        "team1": "IND",
+        "team2": "BAN",
+        "winner": 0
+    },
+    {
+        "team1": "ENG",
+        "team2": "NZ",
+        "winner": 0
+    },
+    {
+        "team1": "WI",
+        "team2": "AFG",
+        "winner": 0
+    },
+    {
+        "team1": "PAK",
+        "team2": "BAN",
+        "winner": 0
+    },
+    {
+        "team1": "SL",
+        "team2": "IND",
+        "winner": 1
+    },
+    {
+        "team1": "SA",
+        "team2": "AUS",
+        "winner": 1
+    }
+]
